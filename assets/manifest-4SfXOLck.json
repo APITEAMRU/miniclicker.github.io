@@ -1,0 +1,15 @@
+{
+  "short_name": "0AUTH",
+  "name": "Авторизация в 1 клик в системе APIteam",
+  "icons": [
+    {
+      "src":"https://0auth.ru/images/apple-pwa-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "var(--html_background)",
+  "theme_color": "var(--html_background)",
+  "display": "fullscreen"
+}
